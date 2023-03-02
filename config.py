@@ -1,0 +1,5 @@
+TOKEN = '5856721111:AAHSRPI111111111111111111111'
+admins = 666501111
+chat = 666501111
+
+# Наш telegram канал @slivmens
